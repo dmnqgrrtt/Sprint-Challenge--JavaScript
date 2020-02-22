@@ -44,6 +44,7 @@ A function and its Lexical environment
 4. explicit - this is used to bind constuctor functions together
 
 5. Why do we need super() in an extended class?
+We need the super so that the attributes from the parent constructor can be passed to the child constrcutor
 
 ## Project Set up
 
